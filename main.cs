@@ -12,7 +12,7 @@ class Program
         int userNumber;
 
         // This function accepts user input
-        Console.WriteLine("What movie can you watch??");
+        Console.WriteLine("What movie can you watch?");
         Console.WriteLine(" ");
 
         Console.WriteLine("Enter your age to find out ");
